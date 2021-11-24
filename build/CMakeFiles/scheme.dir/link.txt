@@ -1,0 +1,2 @@
+/usr/bin/ar qc libscheme.a  CMakeFiles/scheme.dir/functions.cpp.o CMakeFiles/scheme.dir/garbage_collector.cpp.o CMakeFiles/scheme.dir/parser.cpp.o CMakeFiles/scheme.dir/scheme.cpp.o CMakeFiles/scheme.dir/scope.cpp.o CMakeFiles/scheme.dir/tokenizer.cpp.o
+/usr/bin/ranlib libscheme.a
