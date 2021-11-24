@@ -1,4 +1,0 @@
-/home/michicosun/Desktop/Scheme/build/CMakeFiles/rebuild_cache.dir
-/home/michicosun/Desktop/Scheme/build/CMakeFiles/edit_cache.dir
-/home/michicosun/Desktop/Scheme/build/CMakeFiles/scheme-repl.dir
-/home/michicosun/Desktop/Scheme/build/CMakeFiles/scheme.dir
